@@ -1,0 +1,32 @@
+{
+    "name":"Text Diff Utils",
+    "version":"1.0.0+0001",
+    "author":"Sean Daniels <sdaniels@padawan.net>",
+    "homepage":"https://github.com/sjdaniels/coldbox-module-diff",
+    "documentation":"https://github.com/sjdaniels/coldbox-module-diff/blob/master/README.md",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/sjdaniels/coldbox-module-diff.git"
+    },
+    "slug":"diff",
+    "shortDescription":"Helpers for diffing text strings using a java library",
+    "type":"modules",
+    "packageDirectory":"diff",
+    "keywords":[
+        "diff",
+        "strings"
+    ],
+    "private":true,
+    "engines":[
+        {
+            "type":"lucee",
+            "version":">4.5"
+        },
+        {
+            "type":"adobe",
+            "version":">9.02"
+        }
+    ],
+    "dependencies":{
+    }
+}

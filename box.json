@@ -1,6 +1,6 @@
 {
     "name":"Text Diff Utils",
-    "version":"1.0.0+0001",
+    "version":"1.0.1+0001",
     "author":"Sean Daniels <sdaniels@padawan.net>",
     "homepage":"https://github.com/sjdaniels/coldbox-module-diff",
     "documentation":"https://github.com/sjdaniels/coldbox-module-diff/blob/master/README.md",
